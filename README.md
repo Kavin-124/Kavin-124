@@ -87,78 +87,80 @@ I enjoy transforming ideas into functional applications and learning by building
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 DayFlow
+
+**HR Management System**
+
+Next.js • TypeScript • Prisma • SQLite
+
+Employee management, attendance, leave management, payroll and dashboard analytics.
+
+<a href="https://day-flow-hrm.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge">
+</a>
 
 <a href="https://github.com/Kavin-124/DayFlow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavin-124&repo=DayFlow&theme=transparent&hide_border=true" />
+<img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚑 LifePulse
+
+**Emergency Medical & First-Responder Network**
+
+HTML • CSS • JavaScript • Node.js • Express.js • PWA
+
+Emergency assistance, location sharing, hospital discovery and first-aid resources.
+
+<a href="https://lifepulse-emergency.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge">
 </a>
 
 <a href="https://github.com/Kavin-124/lifepulse-emergency">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavin-124&repo=lifepulse-emergency&theme=transparent&hide_border=true" />
+<img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge">
 </a>
 
-</div>
+</td>
 
-<div align="center">
+<td width="33%" valign="top">
+
+### 🗺️ ResQRoute
+
+**Emergency Routing & Telematics Simulator**
+
+JavaScript • Leaflet • OpenStreetMap • Esri
+
+Interactive emergency routing with ambulance movement, traffic visualization and hospital destinations.
+
+<a href="https://res-q-route-red.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge">
+</a>
 
 <a href="https://github.com/Kavin-124/ResQRoute">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavin-124&repo=ResQRoute&theme=transparent&hide_border=true" />
+<img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge">
 </a>
 
-</div>
-
----
-
-## 📅 DayFlow
-
-**Human Resource Management System**
-
-A full-stack HRMS for managing employees, attendance, leave workflows, payroll and HR dashboard analytics.
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `SQLite` `JWT`
-
-🔗 [View DayFlow →](https://github.com/Kavin-124/DayFlow)
-
----
-
-## 🚑 LifePulse
-
-**Smart Emergency Medical & First-Responder Network**
-
-A web-based emergency assistance platform focused on emergency medical information, location sharing, QR-based identification, nearby hospitals and first-aid resources.
-
-**Tech Stack**
-
-`JavaScript` `Node.js` `Express.js` `PWA` `OpenStreetMap`
-
-🔗 [View LifePulse →](https://github.com/Kavin-124/lifepulse-emergency)
-
----
-
-## 🗺️ ResQRoute
-
-**Emergency Medical Routing & Telematics Simulator**
-
-An interactive emergency routing simulator featuring ambulance movement, GPS-style waypoints, traffic visualization, hospital destinations and escort-vehicle simulation.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Leaflet` `OpenStreetMap`
-
-🔗 [View ResQRoute →](https://github.com/Kavin-124/ResQRoute)
+</td>
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kavin-124&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-124&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-124&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 </div>
 
 <br/>
@@ -175,24 +177,23 @@ An interactive emergency routing simulator featuring ambulance movement, GPS-sty
 
 # 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kavin-124&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-
-</div>
-
-- 🥈 2nd Prize — National Level Symposium 2024
-- 📜 NPTEL Certified — Python
+- 🥈 **2nd Prize** — National Level Symposium 2024
+- 📜 **NPTEL Certified** — Python
 
 ---
 
