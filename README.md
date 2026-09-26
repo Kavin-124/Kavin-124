@@ -178,16 +178,7 @@ Interactive emergency routing with ambulance movement, traffic visualization and
   </tr>
 </table>
 
-<!-- Stats & Top Languages Grid -->
-<p align="center">
-  <img src="./github-stats.svg" alt="Kavin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kavin-124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavin-124&theme=tokyonight&hide_border=true" alt="Kavin's Streak" width="93%" />
-</p>
 
 ---
 
