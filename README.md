@@ -155,21 +155,25 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 ---
 
-# 📊 GitHub Statistics
+ 📊 GitHub Statistics & Trophies
 
+<!-- Profile Trophies -->
 <p align="center">
-  <img src="./github-stats.svg" alt="Kavin's GitHub Stats" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavin-124&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Kavin's Trophies" />
 </p>
 
 <br/>
 
-<!-- ===================== STREAK ===================== -->
+<!-- Stats & Top Languages Grid -->
+<p align="center">
+  <img src="./github-stats.svg" alt="Kavin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kavin-124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kavin-124&theme=transparent&hide_border=true" />
-
-</div>
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavin-124&theme=tokyonight&hide_border=true" alt="Kavin's Streak" width="93%" />
+</p>
 
 ---
 
