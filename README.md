@@ -210,7 +210,6 @@ I'm continuously improving my problem-solving skills through:
 # 📈 Current Focus
 
 ```
-
 ### 📈 Proficiency Breakdown
 
 ![Java / Spring Boot](https://img.shields.io/badge/Java_%2F_Spring_Boot-Advanced-brightgreen?style=flat-square)
