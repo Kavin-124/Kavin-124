@@ -156,17 +156,13 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 # 📊 GitHub Analytics
 
-<!-- 3D Isometric Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/s/Kavin-124?theme=tokyonight" alt="Kavin's 3D Contribution Graph" width="100%" />
+  <img src="./github-stats.svg" alt="GitHub Stats" width="100%" />
 </p>
 
 <br/>
 
-<!-- Self-Hosted Snake Animation -->
-<p align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
+
 ---
 
 # 🐍 Contribution Activity
