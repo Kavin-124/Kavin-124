@@ -157,11 +157,11 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 # 📊 GitHub Statistics
 
+### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-124&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="./github-metrics.svg" alt="Kavin's GitHub Stats" width="100%" />
 </p>
-</div>
 
 <br/>
 
