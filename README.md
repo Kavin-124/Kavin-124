@@ -209,10 +209,13 @@ I'm continuously improving my problem-solving skills through:
 
 # 📈 Current Focus
 
-```text
-Java / Spring Boot        ███████████████████░ 90%
-JavaScript / Web Dev      ██████████████████░░ 85%
-SQL / Database             █████████████████░░░ 80%
-Data Structures            ███████████████░░░░░ 70%
-Full Stack Development     █████████████████░░░ 80%
-AI Integration             ████████████░░░░░░░░ 60%
+```
+
+### 📈 Proficiency Breakdown
+
+![Java / Spring Boot](https://img.shields.io/badge/Java_%2F_Spring_Boot-Advanced-brightgreen?style=flat-square)
+![JavaScript / Web Dev](https://img.shields.io/badge/JavaScript_%2F_Web_Dev-Advanced-brightgreen?style=flat-square)
+![SQL / Database](https://img.shields.io/badge/SQL_%2F_Database-Intermediate-blue?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-Intermediate-blue?style=flat-square)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-Advanced-brightgreen?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-Exploring-yellow?style=flat-square)
