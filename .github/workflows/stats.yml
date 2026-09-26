@@ -3,7 +3,7 @@ name: Generate GitHub Stats
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch: # Allows manual trigger
 
 permissions:
   contents: write
@@ -14,15 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Stats Card
-        uses: github-readme-stats/github-readme-stats-action@v1
+      - name: Generate Lightweight Stats Card
+        uses: lowlighter/metrics@latest
         with:
-          gh_token: ${{ secrets.PAT }}
-          output_path: github-stats.svg
-          show_icons: true
-          theme: tokyonight
-          include_all_commits: true
-          count_private: true
+          token: ${{ secrets.PAT }}
+          user: Kavin-124
+          filename: github-stats.svg
+          base: header, repositories
+          config_timezone: Asia/Kolkata
 
       - name: Commit & Push generated stats
         run: |
