@@ -154,11 +154,11 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 ---
 
- 📊 GitHub Statistics & Trophies
+📊 GitHub Statistics & Trophies
 
-<!-- Profile Trophies -->
+<!-- Profile Trophies (Alternative Fast URL) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavin-124&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Kavin's Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Kavin-124&theme=tokyonight&no-frame=true&no-background=true" alt="Kavin's Trophies" />
 </p>
 
 <br/>
