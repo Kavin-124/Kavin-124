@@ -57,19 +57,19 @@ I enjoy turning ideas into functional applications, learning new technologies, a
 
 ## 🌟 Featured Projects
 
-### 🤖 AI Timetable Generator
+### 📅 DayFlow
 
-A timetable generation application designed to automate scheduling while considering faculty availability and reducing timetable conflicts.
+A productivity and workflow-focused application designed to help users organize and manage their daily activities efficiently.
 
 **Tech:** Java • Spring Boot • MySQL • HTML • CSS • JavaScript
 
-🔗 [View Project](https://github.com/Kavin-124/AI_Timetable)
+🔗 [View Project](https://github.com/Kavin-124/DayFlow)
 
 ---
 
-### 🚑 LifePulse — Smart Emergency Medical Network
+### 🚑 LifePulse — Smart Emergency Medical & First-Responder Network
 
-A web-based emergency assistance platform designed to connect users with first responders and provide faster access to emergency support.
+A web-based emergency assistance platform designed to help users access emergency support and connect with first responders more efficiently.
 
 **Tech:** HTML • CSS • JavaScript • Node.js • Express.js • PWA
 
@@ -79,21 +79,11 @@ A web-based emergency assistance platform designed to connect users with first r
 
 ### 🚨 ResQRoute
 
-A project focused on emergency-response assistance and route-based support.
+An emergency-response focused application designed to support faster assistance through location and route-based emergency services.
 
 **Tech:** JavaScript • Web Technologies
 
 🔗 [View Project](https://github.com/Kavin-124/ResQRoute)
-
----
-
-### 🛒 Sports Shop
-
-A web-based sports shopping interface created to provide a simple and user-friendly online shopping experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/Kavin-124/sports_shop)
 
 ---
 
