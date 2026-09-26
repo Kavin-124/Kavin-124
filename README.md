@@ -156,18 +156,19 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <p align="center">
-  <!-- Self-hosted Local Stats Card (Always Works) -->
+  <!-- 100% Reliable Self-Hosted Stats Card -->
   <img src="./github-stats.svg" alt="GitHub Stats" width="95%" />
 </p>
 
 <br/>
 
+### 💻 Most Used Technologies & Languages
+
 <p align="center">
-  <!-- Top Languages Card (Stable Alternative) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="95%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,swift,postgres,git,github,vscode&theme=dark" alt="Most Used Tech" />
+  </a>
 </p>
 
 ---
