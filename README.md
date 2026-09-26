@@ -156,21 +156,17 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 # 📊 GitHub Analytics
 
+<!-- 3D Isometric Contribution Graph -->
 <p align="center">
-  <!-- 100% Reliable Self-Hosted Stats Card -->
-  <img src="./github-stats.svg" alt="GitHub Stats" width="95%" />
+  <img src="https://github-readme-3d-contrib.vercel.app/s/Kavin-124?theme=tokyonight" alt="Kavin's 3D Contribution Graph" width="100%" />
 </p>
 
 <br/>
 
-### 💻 Most Used Technologies & Languages
-
+<!-- Self-Hosted Snake Animation -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,swift,postgres,git,github,vscode&theme=dark" alt="Most Used Tech" />
-  </a>
+  <img src="./github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
-
 ---
 
 # 🐍 Contribution Activity
