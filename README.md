@@ -154,13 +154,11 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 ---
 
-# 📊 GitHub Analytics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats" width="100%" />
+  <img src="./github-stats.svg" alt="Kavin's GitHub Stats" width="100%" />
 </p>
-
-<br/>
 
 
 ---
