@@ -87,7 +87,6 @@ I enjoy transforming ideas into functional applications and learning by building
 
 # 🚀 Featured Projects
 
-## 🚀 Featured Projects
 
 <table>
 <tr>
