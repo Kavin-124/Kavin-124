@@ -156,19 +156,19 @@ Interactive emergency routing with ambulance movement, traffic visualization and
 
 # 📊 GitHub Analytics
 
-<!-- NEW INTERACTIVE GITHUB ANALYTICS SECTION -->
+# 📊 GitHub Analytics
+
 <p align="center">
-  <!-- Interactive 'Metrics' Card (Doughnut charts & detailed stats) -->
-  <img src="https://metrics.lecoq.io/Kavin-124?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html,css&languages.details=bytes,percentage&languages.colors=github&languages.limit=8&repositories=1&repositories.limit=4&theme=tokyonight&config.timezone=Asia%2FKolkata" alt="Interactive Metrics" width="95%" />
+  <!-- Self-hosted Local Stats Card (Always Works) -->
+  <img src="./github-stats.svg" alt="GitHub Stats" width="95%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <!-- Dynamic Activity graph (More engaging than a simple streak number) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-124&theme=tokyonight&area=true&hide_border=true" alt="Kavin's Activity Graph" width="95%" />
+  <!-- Top Languages Card (Stable Alternative) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="95%" />
 </p>
-
 
 ---
 
