@@ -1,109 +1,209 @@
-<!-- Profile README for github.com/Kavin-124 -->
+<!-- ===================== PROFILE BANNER ===================== -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:0891B2&height=210&section=header&text=Kavin%20R&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18"
-    width="100%"
-    alt="Kavin R profile banner"
-  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Kavin%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
 </div>
 
+<!-- ===================== INTRO ===================== -->
+
 <div align="center">
-  <h2>Hi, I'm Kavin 👋</h2>
-  <p>Information Technology student focused on building useful web applications and solving practical problems through software.</p>
-  <a href="https://www.linkedin.com/in/kavinvsb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kavinravi124@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Kavin-124">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
+
+### 👋 Hi, I'm Kavin R
+
+**Software Developer | Full Stack Developer**
+
+Building practical web applications, solving real-world problems,  
+and continuously improving through code.
+
+<br/>
+
+<a href="https://github.com/Kavin-124">
+  <img src="https://img.shields.io/badge/GitHub-Kavin--124-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/kavinvsb">
+  <img src="https://img.shields.io/badge/LinkedIn-Kavin%20R-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+JavaScript;Full+Stack+Web+Development;Building+Real-World+Projects;Learning+DSA+%26+Problem+Solving;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
+
 </div>
 
 ---
 
-## About
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology student at V.S.B. Engineering College
-- 💻 Interested in software engineering and full-stack web development
-- 🌱 Currently strengthening Java, JavaScript, SQL and application development skills
-- 🧩 Enjoy building projects that address real-world use cases
-- 🤝 Open to learning opportunities, collaboration and entry-level developer roles
+I'm an **Information Technology student** interested in software engineering and full-stack development.
 
-## Tech Stack
+I enjoy transforming ideas into functional applications and learning by building real projects.
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frameworks, Tools & Platforms**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- 🎓 B.Tech Information Technology student
+- 💻 Interested in Software Development & Full Stack Development
+- ☕ Working with Java and Spring Boot
+- 🌐 Building modern web applications
+- 🗄️ Working with SQL and databases
+- 🧠 Improving Data Structures & Algorithms
+- 🤖 Exploring practical AI integrations
+- 🚀 Always building, learning and improving
 
 ---
 
-## Featured Projects
+# 🛠️ Tech Stack
 
-### [DayFlow — Human Resource Management System](https://github.com/Kavin-124/DayFlow)
-A web-based HRMS for employee administration and workforce workflows, including attendance, leave approvals, payroll management and data exports.
+### 💻 Languages
 
-**Built with:** Next.js, TypeScript, React, Prisma, SQLite, Tailwind CSS  
-[Live Demo](https://day-flow-hrm.vercel.app/)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
 
-### [LifePulse — Emergency Medical & First-Responder Network](https://github.com/Kavin-124/lifepulse-emergency)
-A PWA concept that helps make essential emergency information accessible, with QR-based medical profiles, emergency location sharing, hospital discovery and offline-oriented support.
+### ⚙️ Frameworks & Backend
 
-**Built with:** HTML, CSS, JavaScript, Node.js, Express.js, PWA  
-[Live Demo](https://lifepulse-emergency.vercel.app/)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,nextjs,react" />
+</p>
 
-### [ResQRoute — Emergency Routing & Telematics Simulator](https://github.com/Kavin-124/ResQRoute)
-An interactive map-based simulator for emergency transport scenarios, featuring Tamil Nadu district routes, ambulance movement, traffic visualization and escort-vehicle simulation.
+### 🗄️ Database
 
-**Built with:** HTML, CSS, JavaScript, Leaflet, OpenStreetMap  
-[Live Demo](https://res-q-route-red.vercel.app/)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,prisma" />
+</p>
 
-### [AI Timetable](https://github.com/Kavin-124/AI_Timetable)
-An academic scheduling project exploring timetable generation and conflict-aware scheduling.
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
-## Achievements
+# 🚀 Featured Projects
 
-- 🥈 Second Prize — National Level Symposium 2024
-- 📜 NPTEL Certificate — Python
 
-## GitHub Activity
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<div align="center">
-  <img src="./github-stats.svg" alt="GitHub statistics" width="100%"/>
-</div>
+### 📊 DayFlow
 
-<div align="center">
+**HR Management System**
+
+Next.js • TypeScript • Prisma • SQLite
+
+Employee management, attendance, leave management, payroll and dashboard analytics.
+
+<a href="https://day-flow-hrm.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Kavin-124/DayFlow">
+<img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚑 LifePulse
+
+**Emergency Medical & First-Responder Network**
+
+HTML • CSS • JavaScript • Node.js • Express.js • PWA
+
+Emergency assistance, location sharing, hospital discovery and first-aid resources.
+
+<a href="https://lifepulse-emergency.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Kavin-124/lifepulse-emergency">
+<img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗺️ ResQRoute
+
+**Emergency Routing & Telematics Simulator**
+
+JavaScript • Leaflet • OpenStreetMap • Esri
+
+Interactive emergency routing with ambulance movement, traffic visualization and hospital destinations.
+
+<a href="https://res-q-route-red.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Kavin-124/ResQRoute">
+<img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./github-stats.svg" alt="Kavin's GitHub Stats" width="100%" />
+</p>
+
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake.svg" alt="Contribution graph animation"/>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Kavin-124/Kavin-124/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <i>Always learning. Building with purpose. Improving one commit at a time.</i>
-</div>
+# 🏆 Achievements
+
+- 🥈 **2nd Prize** — National Level Symposium 2024
+- 📜 **NPTEL Certified** — Python
+
+---
+
+# 🧠 Problem Solving
+
+I'm continuously improving my problem-solving skills through:
+
+- Data Structures & Algorithms
+- Java programming
+- Coding challenges
+- LeetCode practice
+- Building real-world applications
+
+---
+
+# 📈 Current Focus
+
+### 📈 Proficiency Breakdown
+
+![Java / Spring Boot](https://img.shields.io/badge/Java_%2F_Spring_Boot-Advanced-brightgreen?style=flat-square)
+![JavaScript / Web Dev](https://img.shields.io/badge/JavaScript_%2F_Web_Dev-Advanced-brightgreen?style=flat-square)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-Advanced-brightgreen?style=flat-square)
+![SQL / Database](https://img.shields.io/badge/SQL_%2F_Database-Intermediate-blue?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-Intermediate-blue?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-Exploring-yellow?style=flat-square)
